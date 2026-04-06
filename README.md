@@ -3,6 +3,7 @@
 
 🚀🚀🚀 This repository lists some awesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration with Claude Code. MIT licensed.
 ## Contents
 - [Awesome-llm-and-aigc](#awesome-llm-and-aigc)
   - [Summary](#summary)
