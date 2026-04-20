@@ -84,6 +84,8 @@
 
 ## Summary
 
+  - [OneCompression](https://github.com/FujitsuResearch/OneCompression) ![](https://img.shields.io/github/stars/FujitsuResearch/OneCompression.svg?style=social) : A post-training quantization framework for LLMs by [Fujitsu Research](https://www.fujitsu.com/global/about/research/), integrating QEP (NeurIPS 2025), ILP-based mixed-precision (AutoBit), JointQ, SpinQuant/OstQuant-style rotation preprocessing, and a vLLM plugin. Paper: [arXiv:2603.28845](https://arxiv.org/abs/2603.28845).
+
   - ### Frameworks
 
     - #### Official Version
