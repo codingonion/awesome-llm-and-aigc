@@ -818,6 +818,7 @@
     - [hymie122/RAG-Survey](https://github.com/hymie122/RAG-Survey) <img src="https://img.shields.io/github/stars/hymie122/RAG-Survey?style=social"/> : Collecting awesome papers of RAG for AIGC. We propose a taxonomy of RAG foundations, enhancements, and applications in paper "Retrieval-Augmented Generation for AI-Generated Content: A Survey". (**[arXiv 2024](https://arxiv.org/abs/2402.19473)**). " 微信公众号「数智笔记」《[2024检索增强生成RAG最新综述](https://mp.weixin.qq.com/s/F-shRy1m7wQIS87ujOS7Dw)》"。
 
     - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) <img src="https://img.shields.io/github/stars/eugeneyan/open-llms?style=social"/> : 📋 A list of open LLMs available for commercial use.
+    - [i-need-token/ai-models](https://github.com/i-need-token/ai-models) <img src="https://img.shields.io/github/stars/i-need-token/ai-models?style=social"/> : Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, capabilities, and modalities. Interactive catalog and SEO comparison pages.
 
     - [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) <img src="https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social"/> : A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
 
