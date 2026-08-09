@@ -462,6 +462,8 @@
     - #### Performance Analysis and Visualization
       ##### 性能分析及可视化
 
+        - [morluto/flameox](https://github.com/morluto/flameox) <img src="https://img.shields.io/github/stars/morluto/flameox?style=social"/> : Profiling and optimization toolkit for agents that coordinates PyTorch Profiler and Nsight Systems evidence, preserves native traces, and compares runs across GPU kernels and inference workloads. 面向智能体的性能分析与优化工具包：协调 PyTorch Profiler 和 Nsight Systems 证据，保留原生追踪并比较 GPU 内核和推理负载的运行结果。
+
         - [FlagPerf](https://github.com/FlagOpen/FlagPerf) <img src="https://img.shields.io/github/stars/FlagOpen/FlagPerf?style=social"/> : FlagPerf is an open-source software platform for benchmarking AI chips. FlagPerf是智源研究院联合AI硬件厂商共建的一体化AI硬件评测引擎，旨在建立以产业实践为导向的指标体系，评测AI硬件在软件栈组合（模型+框架+编译器）下的实际能力。
 
         - [hahnyuan/LLM-Viewer](https://github.com/hahnyuan/LLM-Viewer) <img src="https://img.shields.io/github/stars/hahnyuan/LLM-Viewer?style=social"/> : Analyze the inference of Large Language Models (LLMs). Analyze aspects like computation, storage, transmission, and hardware roofline model in a user-friendly interface.
