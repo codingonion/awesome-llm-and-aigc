@@ -1322,6 +1322,7 @@
     - [MetaGPT](https://github.com/geekan/MetaGPT) <img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social"/> : "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework". (**[arXiv 2023](https://arxiv.org/abs/2308.00352)**).
 
     - [OpenManus](https://github.com/mannaandpoem/OpenManus) <img src="https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social"/> : No fortress, purely open ground. OpenManus is Coming.
+    - [Orkas](https://github.com/Orkas-AI/Orkas) : Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 
 
